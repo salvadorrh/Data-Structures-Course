@@ -1,7 +1,7 @@
 # Lab 6 Graphs
 
 </br >-Implemented Kruskal's algorithm
-</br >  -Implemented class of Graph Adjacency Matrix
+</br >    -Implemented class of Graph Adjacency Matrix
 </br >  -Implemented class of Graph Adjacency List
 </br >  -Implemented class of Graph Edge List
 </br >  -Implemented class of Disjoint Set Forest
